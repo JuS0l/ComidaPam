@@ -4,7 +4,7 @@
 
 <p>Juliana da Silva Oliveira e Pedro Henrique Almeida Souza</p>
 
-<a href="https://github.com/JuS0l/App_IlhaBela/wiki/Integrantes">Link para a wiki dos integrantes</a>
+<a href="https://github.com/JuS0l/ComidaPam/wiki/Integrantes">Link para a wiki dos integrantes</a>
 
 <h1>Descrição do Aplicativo</h1>
 
