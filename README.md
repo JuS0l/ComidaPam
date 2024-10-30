@@ -6,6 +6,6 @@
 
 <a href="https://github.com/JuS0l/ComidaPam/wiki/Integrantes">Link para a wiki dos integrantes</a>
 
-<h1>Descrição do Aplicativo</h1>
+<h1>Descrição e tema do Aplicativo</h1>
 
-<a href="https://github.com/JuS0l/ComidaPam/wiki/Descri%C3%A7%C3%A3o-do-Aplicativo">Link para a wiki com a descrição do aplicativo</a>
+O aplicativo tem como tema Comida típicas e famosas no mundo, o Yummy traditions foi desenvolvido com a proposta de apresentar as 10 comidas típicas e mais famosas do Brasil ou dos continentes do Mundo, tendo uma interface simples e intuitiva.
